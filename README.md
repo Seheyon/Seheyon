@@ -13,9 +13,10 @@
 <img src="https://img.shields.io/badge/C Sharp-#239120?style=flat&logo=C Sharp&logoColor=white"/>
   
 </div>
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seheyon&layout=compact)](https://github.com/Seheyon/github-readme-stats)
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seheyon)](https://github.com/Seheyon/github-readme-stats)
 
